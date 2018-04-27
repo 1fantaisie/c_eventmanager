@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1461241524 source:d:\code blocks\manager\main.cpp
+	<iostream>
+	"tree.h"
+
+1461181101 source:d:\code blocks\manager\jucator.cpp
+	<iostream>
+	"tree.h"
+
+1461173176 d:\code blocks\manager\tree.h
+	"base_object.h"
+	"jucator.h"
+	"event.h"
+
+1461168588 d:\code blocks\manager\base_object.h
+
+1461168539 d:\code blocks\manager\jucator.h
+
+1461241151 d:\code blocks\manager\event.h
+	<map>
+	<vector>
+	<iostream>
+
+1461229693 source:d:\code blocks\manager\event.cpp
+	"tree.h"
+
+1461229693 source:g:\code blocks\manager\event.cpp
+	"tree.h"
+
+1461173176 g:\code blocks\manager\tree.h
+	"base_object.h"
+	"jucator.h"
+	"event.h"
+
+1461168588 g:\code blocks\manager\base_object.h
+
+1461168539 g:\code blocks\manager\jucator.h
+
+1461241151 g:\code blocks\manager\event.h
+	<map>
+	<vector>
+	<iostream>
+
+1461181101 source:g:\code blocks\manager\jucator.cpp
+	<iostream>
+	"tree.h"
+
+1461241524 source:g:\code blocks\manager\main.cpp
+	<iostream>
+	"tree.h"
+
